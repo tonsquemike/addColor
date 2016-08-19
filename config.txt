@@ -1,0 +1,4 @@
+﻿#PARAMETROS
+-IMG C:/temp/1\1.png 
+-DIR C:/temp/alpha4.png 
+-COLOR b80,g50
